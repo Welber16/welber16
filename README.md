@@ -27,3 +27,5 @@
 ## Card - Most Used Languages
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=welber16&bg_color=000&border_color=30A3DC&title_color=FFf00FFff&text_color=FFFFFF)
+
+![Snake animation](https://github.com/welber16/welber16/blob/output/github-contribution-grid-snake.svg)
