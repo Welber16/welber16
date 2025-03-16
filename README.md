@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Welber.👋
 
 ## 🚀 Sobre mim
-- Estou estudando para ser desenvolvedor beckend, atualmente moro em Brasília-DF, Cursando Análise e Desenvolvimento de Sistemas.
+- Estou estudando para ser desenvolvedor, atualmente moro em Brasília-DF, Recém formado em Análise e Desenvolvimento de Sistemas.
 - Sempre em busca de conhecimento fazendo cursos e bootcamp para ampliar meu conhecimento e ser um excelente profissional.
 - Faço DAYTRADE, que são operações diarias na bolsa de valores.
 - Gosto muito de jogar, ler, assistir filmes ou series...
